@@ -312,6 +312,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Hq9+](h/hq9%2B.h)
 * [Html](h/html.html)
 * [Hubot](h/hubot.coffee)
+* .[huf](h/huf.huf)
 * [Hy](h/hy.hy)
 * [Hypertalk](h/hypertalk.ht)
 * [I5](i/i5.i5)
